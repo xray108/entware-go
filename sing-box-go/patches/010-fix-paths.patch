@@ -1,5 +1,5 @@
---- a/cmd/sing-box/main.go
-+++ b/cmd/sing-box/main.go
+--- a/cmd/sing-box/cmd.go
++++ b/cmd/sing-box/cmd.go
 @@ -69,6 +69,6 @@ func preRun(cmd *cobra.Command, args []s
  		}
  	}
